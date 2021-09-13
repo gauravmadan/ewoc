@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Gaurav Madan
+* Joseph H. LaCasce
 
 
